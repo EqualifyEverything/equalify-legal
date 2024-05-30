@@ -35,3 +35,10 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 ### Assignment
 You agree that Equalify may assign this Agreement, and all of its rights, obligations and licenses hereunder.
+
+## Signature
+
+I agree to all terms in this Contributor License Agreement.
+
+Name: 
+Date: 
