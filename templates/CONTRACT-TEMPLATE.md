@@ -5,6 +5,8 @@ Client Account Holder Name:
 
 Client Account Holder Email:
 
+Client Number: [We only offer Founder pricing to our first 100 clients, so this number matters!]
+
 Date Credentials Delivered:
 
 Equalify Project Owner: Blake Bertuccelli-Booth
