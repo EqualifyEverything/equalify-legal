@@ -1,4 +1,4 @@
-# Equalify Contract
+# Equalify Purchase Agreement
 Client Organization: 
 
 Client Account Holder Name:
@@ -39,6 +39,7 @@ The client will receive access to Equalify, our automated accessibility platform
 - **Multi-Domain Scan**: Add many domains to Equalify’s dashboard.
 - **Sitemap Crawling**: Equalify automatically crawls pages of XML sitemaps.
 - **Issue Tagging**:  Equalify tags issues related to WCAG standards.
+- **Monitor Updates**: An opt-in feature that automatically triggers scans when pages are updated.
 - **Educational Material**: Inclusion of links to material informing non-accessibility professionals about best practices related to a reported issue.
 - **Advanced Filtering**: Filter reports to issues that are tagged with specific WCAG rules, best practices, and custom tags. 
 
